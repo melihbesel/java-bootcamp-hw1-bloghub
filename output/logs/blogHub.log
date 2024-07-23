@@ -1,0 +1,218 @@
+
+
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** FileLoggerService sınıfından bir nesne oluşturuldu. ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** UserRepository sınıfından bir nesne oluşturuldu. ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** UserService sınıfından bir nesne oluşturuldu. ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** BlogRepository sınıfından bir nesne oluşturuldu. ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** BlogService sınıfından bir nesne oluşturuldu. ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Durumu APPROVED olan tüm kullanıcıları listele ve göster ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** User{name='null', email='mehmet@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Stream listelendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı blog 'cem@gmail.com' tarafından eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı blog durumu 'PUBLISHED' olarak değişti ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı blog 'cem@gmail.com' tarafından eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı blog durumu 'PUBLISHED' olarak değişti ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <ERROR>
+2024/07/15 14:56:49 +0300: *** Text '2024-06-31' could not be parsed: Invalid date 'JUNE 31' ***
+2024/07/15 14:56:49 +0300: <ERROR/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'header' başlıklı blog 'toygun@gmail.com' tarafından eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Java Frameworkleri nelerdir?' başlıklı blog 'melih@gmail.com' tarafından eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'header' başlıklı blog durumu 'DELETED' olarak değişti ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı blog 'melih@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı bloga 'toygun@gmail.com' tarafından yorum eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı bloga 'melih@gmail.com' tarafından yorum eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı blog 'mehmet@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Hayat Kurtaran Java Stream Komutları' başlıklı blog 'toygun@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı blog 'melih@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı blog 'mehmet@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı blog 'toygun@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı blog 'cem@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Lombok' başlıklı bloga 'cem@gmail.com' tarafından yorum eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Java Frameworkleri nelerdir?' başlıklı blog 'mehmet@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Java Frameworkleri nelerdir?' başlıklı blog 'cem@gmail.com' tarafından okundu ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Java Frameworkleri nelerdir?' başlıklı bloga 'cem@gmail.com' tarafından yorum eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Java Frameworkleri nelerdir?' başlıklı bloga 'cem@gmail.com' tarafından yorum eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'Java Frameworkleri nelerdir?' başlıklı bloga 'cem@gmail.com' tarafından yorum eklendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Tüm kullanıcıların bloglarını listele ve göster ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** Blog{title='header', text='content', createdDate=2024-07-15, user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DELETED, likeCount=0, readCount=0, blogCommentList=[]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Stream listelendi ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Soru 5 - Blog istatistiklerini hesaplayan ve gösteren bir kodu yazın. ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'cem@gmail.com' kullanıcısının blogları ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:49 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:49 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:49 +0300: *** Stream listelendi ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'cem@gmail.com' kullanıcısının blog istatistikleri ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** BLOG_COUNT: 2 ***
+2024/07/15 14:56:49 +0300: *** READ_COUNT: 7 ***
+2024/07/15 14:56:49 +0300: *** COMMENT_COUNT: 3 ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'mehmet@gmail.com' kullanıcısının blogları ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:49 +0300: *** Stream listelendi ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'mehmet@gmail.com' kullanıcısının blog istatistikleri ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** BLOG_COUNT: 0 ***
+2024/07/15 14:56:49 +0300: *** READ_COUNT: 0 ***
+2024/07/15 14:56:49 +0300: *** COMMENT_COUNT: 0 ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'toygun@gmail.com' kullanıcısının blogları ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:49 +0300: *** Blog{title='header', text='content', createdDate=2024-07-15, user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DELETED, likeCount=0, readCount=0, blogCommentList=[]} ***
+2024/07/15 14:56:49 +0300: *** Stream listelendi ***
+2024/07/15 14:56:49 +0300: <INFO>
+2024/07/15 14:56:49 +0300: *** 'toygun@gmail.com' kullanıcısının blog istatistikleri ***
+2024/07/15 14:56:49 +0300: <INFO/>
+2024/07/15 14:56:49 +0300: *** BLOG_COUNT: 1 ***
+2024/07/15 14:56:50 +0300: *** READ_COUNT: 0 ***
+2024/07/15 14:56:50 +0300: *** COMMENT_COUNT: 0 ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** 'melih@gmail.com' kullanıcısının blogları ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** 'melih@gmail.com' kullanıcısının blog istatistikleri ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** BLOG_COUNT: 1 ***
+2024/07/15 14:56:50 +0300: *** READ_COUNT: 2 ***
+2024/07/15 14:56:50 +0300: *** COMMENT_COUNT: 3 ***
+2024/07/15 14:56:50 +0300: *** Soru 5 - Blog’ları oluşturulma tarihine göre, yorum sayısına göre ve okunma sayısına göre artan ve azalan olacak şekilde listeleyen kodu yazın. ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** blogOrderByType: CREATED_DATE, orderDescending: true ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** blogOrderByType: COMMENT_COUNT, orderDescending: true ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** blogOrderByType: READ_COUNT, orderDescending: true ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** blogOrderByType: CREATED_DATE, orderDescending: false ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** blogOrderByType: COMMENT_COUNT, orderDescending: false ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
+2024/07/15 14:56:50 +0300: <INFO>
+2024/07/15 14:56:50 +0300: *** blogOrderByType: READ_COUNT, orderDescending: false ***
+2024/07/15 14:56:50 +0300: <INFO/>
+2024/07/15 14:56:50 +0300: *** Stream listeleniyor ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Java Frameworkleri nelerdir?', text='Java Frameworkleri', createdDate=2024-07-07, user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=DRAFT, likeCount=0, readCount=2, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment1', createdDate=2024-07-15T14:56:49.851261400, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment2', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='comment3', createdDate=2024-07-15T14:56:49.866885800, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Hayat Kurtaran Java Stream Komutları', text='Java 8 ile gelen en önemli ...', createdDate=2023-08-01, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=3, blogCommentList=[BlogComment{user=User{name='null', email='toygun@gmail.com', password='ba3253876aed6bc22d4a6ff53d8406c6ad864195ed144ab5c87621b6c233b548baeae6956df346ec8c17f5ea10f35ee3cbc514797ed7ddd3145464e2a0bab413', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='İyi bir makale olmuş', createdDate=2024-07-15T14:56:49.788760900, blogCommentType=INITIAL}, BlogComment{user=User{name='null', email='melih@gmail.com', password='ba45e477b179ab0ac37cf8a44f5e8a8bcf9f75f164239e2710113d89844e9410a5061b744087848f9b30ff0082e29256f01e1567dd6c197020018f1cc9c30ee5', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='Harika, teşekkürler', createdDate=2024-07-15T14:56:49.804387200, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Blog{title='Lombok', text='Lombok Nedir? ...', createdDate=2024-07-15, user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, blogStatus=PUBLISHED, likeCount=0, readCount=4, blogCommentList=[BlogComment{user=User{name='null', email='cem@gmail.com', password='b109f3bbbc244eb82441917ed06d618b9008dd09b3befd1b5e07394c706a8bb980b1d7785e5976ec049b46df5f1326af5a2ea6d103fd07c95385ffab0cacbc86', userType=STANDARD, bio='null', statusType=APPROVED, socialMediaList=[], followedTagList=[]}, comment='isim tuhafmış', createdDate=2024-07-15T14:56:49.835639400, blogCommentType=INITIAL}]} ***
+2024/07/15 14:56:50 +0300: *** Stream listelendi ***
